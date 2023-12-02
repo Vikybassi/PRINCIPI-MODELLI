@@ -1,4 +1,5 @@
 # PRINCIPI-MODELLI
+# presentation: https://www.canva.com/design/DAF0QFCY6X0/ncRWIpsvHWavc4iUa9kX6g/edit?utm_content=DAF0QFCY6X0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 # jsColorblindSimulator
 
 Simulate different kinds of color-blindness on images directly in your webbrowser.
