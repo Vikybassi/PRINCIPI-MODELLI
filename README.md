@@ -1,7 +1,12 @@
 # PRINCIPI-MODELLI
 
-# Presentation: 
-https://www.canva.com/design/DAF0QFCY6X0/ncRWIpsvHWavc4iUa9kX6g/edit?utm_content=DAF0QFCY6X0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Progetto universitario sul simulatore di daltonismo **jsColorblindSimulator**, con relativa presentazione.
+
+> **Nota sull'origine del codice:** il codice qui contenuto è quello originale del progetto open source [jsColorblindSimulator di MaPePeR](https://github.com/MaPePeR/jsColorblindSimulator), caricato in questo repository come caso di studio per l'esame. Non è codice scritto da zero: l'analisi e la presentazione (link sotto) sono il lavoro svolto per il corso.
+
+**[→ Presentazione](https://www.canva.com/design/DAF0QFCY6X0/ncRWIpsvHWavc4iUa9kX6g/edit?utm_content=DAF0QFCY6X0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+
+---
 
 # jsColorblindSimulator
 
